@@ -8,5 +8,12 @@ int main(){
         cout << i << endl;
         i++;
     }
+    int k = 1;
+    int n;
+    cin >> n;
+    while(k <= n){
+        cout << k << endl;
+        k++;
+    }
     return 0;
 }
